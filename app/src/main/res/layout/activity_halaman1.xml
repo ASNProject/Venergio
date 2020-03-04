@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Halaman1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:background="@drawable/c">
+
+    </RelativeLayout>
+
+    <com.denzcoskun.imageslider.ImageSlider
+        android:id="@+id/slider"
+        android:layout_width="match_parent"
+        android:layout_height="166dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/bg_indikator"
+        app:auto_cycle="true"
+        app:corner_radius="20"
+        app:delay="0"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="125dp">
+
+    </com.denzcoskun.imageslider.ImageSlider>
+
+    <ImageView
+        android:layout_width="229dp"
+        android:layout_height="76dp"
+        android:background="@drawable/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"/>
+
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="0dp"
+            android:background="@drawable/i"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/isi"
+                android:layout_width="115dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="Profil"
+                android:layout_below="@+id/profil"
+                android:textAlignment="center"/>
+
+            <ImageView
+                android:id="@+id/profil"
+                android:layout_width="59dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/b"
+                android:layout_centerHorizontal="true"/>
+
+        <ImageView
+
+            android:id="@+id/conn"
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/a" />
+        <ImageView
+
+            android:id="@+id/set"
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/d" />
+
+
+
+
+        </RelativeLayout>
+
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:layout_below="@+id/slider"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/e" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/slider"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/f" />
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/imageButton2"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/g" />
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:layout_below="@+id/imageButton"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="20dp"
+            android:background="@drawable/h" />
+
+
+</RelativeLayout>

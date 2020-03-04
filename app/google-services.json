@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183871478715",
+    "firebase_url": "https://venergio.firebaseio.com",
+    "project_id": "venergio",
+    "storage_bucket": "venergio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183871478715:android:86bb8c54000de57a79429e",
+        "android_client_info": {
+          "package_name": "com.asnproject.venergio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183871478715-h3gkjtgpvmvk9f2r3g8fdcnopvf7634i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asnproject.venergio",
+            "certificate_hash": "6ef3cf5418260791251e6cd6d3552658c4f15c3a"
+          }
+        },
+        {
+          "client_id": "183871478715-pfagemujuavaqgv46mre3nfdsigcr2bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbCDK4CQEz7Tuy7ozOtWUhmzY73ahbgqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183871478715-pfagemujuavaqgv46mre3nfdsigcr2bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
