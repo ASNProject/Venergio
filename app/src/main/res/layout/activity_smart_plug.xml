@@ -24,78 +24,72 @@
         android:layout_marginTop="30dp"
         android:layout_centerHorizontal="true"
         />
+
     <RelativeLayout
         android:id="@+id/qw"
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:layout_below="@+id/jsmartplug"
-        android:layout_marginTop="20dp"
         android:layout_marginLeft="30dp"
-        android:layout_marginRight="30dp">
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:orientation="horizontal">
 
         <ToggleButton
-            android:id="@+id/toggleButton"
-            android:layout_width="150dp"
-            android:layout_height="100dp"
+            android:layout_width="126dp"
+            android:layout_height="97dp"
+            android:layout_marginTop="50dp"
             android:layout_centerVertical="true"
-            android:layout_marginLeft="10dp"
-            android:text="ToggleButton"
-            android:background="@drawable/asdf"
-            />
-
+            android:id="@+id/toogle1"
+            android:background="@drawable/isian"/>
 
         <TextView
-            android:layout_width="49dp"
-            android:layout_height="21dp"
-            android:layout_below="@+id/toggleButton"
-            android:layout_alignStart="@+id/toggleButton"
-            android:layout_alignEnd="@+id/toggleButton"
-            android:layout_marginStart="50dp"
-            android:layout_marginTop="14dp"
-            android:layout_marginEnd="50dp"
+            android:layout_width="48dp"
+            android:layout_height="22dp"
+            android:layout_below="@id/toogle1"
+            android:layout_alignStart="@+id/toogle1"
+            android:layout_alignEnd="@+id/toogle1"
+            android:layout_marginStart="38dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="40dp"
             android:text="PLUG 1"
             android:textStyle="bold" />
 
         <ToggleButton
-            android:id="@+id/toggleButton1"
-            android:layout_width="150dp"
-            android:layout_height="100dp"
-            android:layout_alignParentEnd="true"
+            android:id="@+id/toogle2"
+            android:layout_width="126dp"
+            android:layout_height="97dp"
+            android:layout_marginTop="50dp"
+            android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
-            android:layout_marginStart="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginEnd="10dp"
-            android:layout_marginBottom="10dp"
-            android:text="ToggleButton"
-            android:background="@drawable/asdf"/>
+            android:background="@drawable/isian"/>
 
         <TextView
-            android:layout_width="49dp"
+            android:layout_width="51dp"
             android:layout_height="21dp"
-            android:layout_below="@+id/toggleButton1"
-            android:layout_alignStart="@+id/toggleButton1"
-            android:layout_alignEnd="@+id/toggleButton1"
-            android:layout_marginStart="50dp"
-            android:layout_marginTop="5dp"
-            android:layout_marginEnd="50dp"
+            android:layout_below="@id/toogle2"
+            android:layout_alignStart="@+id/toogle2"
+            android:layout_alignEnd="@+id/toogle2"
+            android:layout_marginStart="38dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="40dp"
             android:text="PLUG 2"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
+
 
 
     </RelativeLayout>
 
     <Button
-        android:layout_width="303dp"
-        android:layout_height="63dp"
+        android:id="@+id/btnschedule"
+        android:layout_width="154dp"
+        android:layout_height="wrap_content"
         android:layout_below="@+id/qw"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="61dp"
-        android:layout_marginBottom="106dp"
-        android:background="@drawable/asdf"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/isian"
         android:text="Schedule"
-        android:textSize="25dp"
-        android:id="@+id/btnschedule"/>
+        android:textSize="15dp"
+        android:layout_centerHorizontal="true"/>
 
     <RelativeLayout
         android:layout_width="match_parent"

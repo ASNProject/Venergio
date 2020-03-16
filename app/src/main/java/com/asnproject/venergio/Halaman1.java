@@ -4,7 +4,11 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -29,6 +33,8 @@ public class Halaman1 extends AppCompatActivity {
     private DatabaseReference getReference;
     private String KEY_NAME = "username";
     private String username;
+    private ImageButton btnSmartplug;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +43,15 @@ public class Halaman1 extends AppCompatActivity {
         mAuth = FirebaseAuth.getInstance();
         getDatabase = FirebaseDatabase.getInstance().getReference().child("Data User");
         loadUserInformation();
+
+        btnSmartplug = findViewById(R.id.imageButton);
+        btnSmartplug.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent smartplug = new Intent(Halaman1.this, SmartPlug.class);
+                startActivity(smartplug);
+            }
+        });
 
 
     }

@@ -1,0 +1,321 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\29ed6d39281bb525c0b42c8f742e7b5a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.denzcoskun:ImageSlideshow:0.0.6] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\2d1ec19740994d49d7a8a3c5f4daaa52\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\68c59f90acc67c4c53ab9851f3a46e75\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea9a7d1032b5abc4937a43adcdf2e2a4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\9da89e111092dac11771d0885b994700\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\af531aaf0068f41440ba8cee802adbde\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\049b24e45171f148176eec74c7a4003e\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\0eb06d4026fa9f5519775e8f35ea89fc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ee9b3b7c088045a67c2ef307c8192427\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\9f50abcc87ca081d1d2351b4729dfb55\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\f194f54dccc6baf25f2672161518b3be\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\b2c9907d6f3562ccd0a05dae2314e95c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a34f33a0c21ec4c7a3d0a7b9279ddbda\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3a90f4432e7735f06adc094fce0cc4ab\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\466d9c91400b2e899b7f162636c71473\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\be1021756b7d169f12d158b5ee9b2d01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d448e3cf6a35762cad8eb2f0ad0ddc5b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\02be7d0200a14a523b71359f7711ce9e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c18b5da7582c8e2cd66fe407fc7ea5d3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d17673673dbb04c6b63e333f8118b40d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\49a3ed43d2f0604beb7c1e9063bf8a82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d4fa3183d61856d208bf5cd3a7c36561\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3ee8616f2283779ce625e911bad8d088\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\71090057b37f8ff8fba0f2ab79a1dcac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\57e0832c584718fb19f45a3c527579e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\569a900d633b3969ee0a18f3a94e48f8\AndroidManifest.xml:15:1-23:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a06d455ecb22bb77f86621b619b633bd\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3a88fc1ab3ca9425f1dda55ce4541859\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\7f8b0630dae57eb097fad9b1c8eea7ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\03ecc0fe1652c7686a8eaeabcf96c89a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\0dee8ba41b002b828bc4c95c3859a823\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\7a9c126c65f360dad813558278559381\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\bd5464a48b3e41d5991897b747728837\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fa46e8ffce1628a78892b504639d0afd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c7a41e446a166f1164f80220e1d32973\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\95dbf4518c046de31c4eddda5085ffc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\230ef37e91e9be8f1fe258a37f1cd8da\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission-sdk-23#android.permission.INTERNET
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:8:29-71
+uses-permission-sdk-23#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:9:5-83
+	android:name
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:9:29-80
+application
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\29ed6d39281bb525c0b42c8f742e7b5a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\29ed6d39281bb525c0b42c8f742e7b5a\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea9a7d1032b5abc4937a43adcdf2e2a4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea9a7d1032b5abc4937a43adcdf2e2a4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\af531aaf0068f41440ba8cee802adbde\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\af531aaf0068f41440ba8cee802adbde\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\049b24e45171f148176eec74c7a4003e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\049b24e45171f148176eec74c7a4003e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\0eb06d4026fa9f5519775e8f35ea89fc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\0eb06d4026fa9f5519775e8f35ea89fc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ee9b3b7c088045a67c2ef307c8192427\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ee9b3b7c088045a67c2ef307c8192427\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d4fa3183d61856d208bf5cd3a7c36561\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d4fa3183d61856d208bf5cd3a7c36561\AndroidManifest.xml:24:5-89
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a06d455ecb22bb77f86621b619b633bd\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a06d455ecb22bb77f86621b619b633bd\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3a88fc1ab3ca9425f1dda55ce4541859\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3a88fc1ab3ca9425f1dda55ce4541859\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d4fa3183d61856d208bf5cd3a7c36561\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.asnproject.venergio.SmartPlug
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:18:9-56
+	android:name
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:18:19-44
+activity#com.asnproject.venergio.Halaman1
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:19:9-46
+	android:name
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:19:19-43
+activity#com.asnproject.venergio.Register
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:20:9-46
+	android:name
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:20:19-43
+activity#com.asnproject.venergio.MainActivity
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\29ed6d39281bb525c0b42c8f742e7b5a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\29ed6d39281bb525c0b42c8f742e7b5a\AndroidManifest.xml:20:5-44
+MERGED from [com.github.denzcoskun:ImageSlideshow:0.0.6] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\2d1ec19740994d49d7a8a3c5f4daaa52\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.denzcoskun:ImageSlideshow:0.0.6] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\2d1ec19740994d49d7a8a3c5f4daaa52\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\68c59f90acc67c4c53ab9851f3a46e75\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\68c59f90acc67c4c53ab9851f3a46e75\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea9a7d1032b5abc4937a43adcdf2e2a4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea9a7d1032b5abc4937a43adcdf2e2a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\9da89e111092dac11771d0885b994700\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\9da89e111092dac11771d0885b994700\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\af531aaf0068f41440ba8cee802adbde\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\af531aaf0068f41440ba8cee802adbde\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\049b24e45171f148176eec74c7a4003e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\049b24e45171f148176eec74c7a4003e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\0eb06d4026fa9f5519775e8f35ea89fc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\0eb06d4026fa9f5519775e8f35ea89fc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ee9b3b7c088045a67c2ef307c8192427\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ee9b3b7c088045a67c2ef307c8192427\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\9f50abcc87ca081d1d2351b4729dfb55\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\9f50abcc87ca081d1d2351b4729dfb55\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\f194f54dccc6baf25f2672161518b3be\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\f194f54dccc6baf25f2672161518b3be\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\b2c9907d6f3562ccd0a05dae2314e95c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\b2c9907d6f3562ccd0a05dae2314e95c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a34f33a0c21ec4c7a3d0a7b9279ddbda\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a34f33a0c21ec4c7a3d0a7b9279ddbda\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3a90f4432e7735f06adc094fce0cc4ab\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3a90f4432e7735f06adc094fce0cc4ab\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\466d9c91400b2e899b7f162636c71473\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\466d9c91400b2e899b7f162636c71473\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\be1021756b7d169f12d158b5ee9b2d01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\be1021756b7d169f12d158b5ee9b2d01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d448e3cf6a35762cad8eb2f0ad0ddc5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d448e3cf6a35762cad8eb2f0ad0ddc5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\02be7d0200a14a523b71359f7711ce9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\02be7d0200a14a523b71359f7711ce9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c18b5da7582c8e2cd66fe407fc7ea5d3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c18b5da7582c8e2cd66fe407fc7ea5d3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d17673673dbb04c6b63e333f8118b40d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d17673673dbb04c6b63e333f8118b40d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\49a3ed43d2f0604beb7c1e9063bf8a82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\49a3ed43d2f0604beb7c1e9063bf8a82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d4fa3183d61856d208bf5cd3a7c36561\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\d4fa3183d61856d208bf5cd3a7c36561\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3ee8616f2283779ce625e911bad8d088\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3ee8616f2283779ce625e911bad8d088\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\71090057b37f8ff8fba0f2ab79a1dcac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\71090057b37f8ff8fba0f2ab79a1dcac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\57e0832c584718fb19f45a3c527579e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\57e0832c584718fb19f45a3c527579e7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\569a900d633b3969ee0a18f3a94e48f8\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\569a900d633b3969ee0a18f3a94e48f8\AndroidManifest.xml:19:5-21:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a06d455ecb22bb77f86621b619b633bd\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a06d455ecb22bb77f86621b619b633bd\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3a88fc1ab3ca9425f1dda55ce4541859\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\3a88fc1ab3ca9425f1dda55ce4541859\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\7f8b0630dae57eb097fad9b1c8eea7ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\7f8b0630dae57eb097fad9b1c8eea7ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\03ecc0fe1652c7686a8eaeabcf96c89a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\03ecc0fe1652c7686a8eaeabcf96c89a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\0dee8ba41b002b828bc4c95c3859a823\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\0dee8ba41b002b828bc4c95c3859a823\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\7a9c126c65f360dad813558278559381\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\7a9c126c65f360dad813558278559381\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\bd5464a48b3e41d5991897b747728837\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\bd5464a48b3e41d5991897b747728837\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fa46e8ffce1628a78892b504639d0afd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fa46e8ffce1628a78892b504639d0afd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c7a41e446a166f1164f80220e1d32973\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c7a41e446a166f1164f80220e1d32973\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\95dbf4518c046de31c4eddda5085ffc0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\95dbf4518c046de31c4eddda5085ffc0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\230ef37e91e9be8f1fe258a37f1cd8da\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\230ef37e91e9be8f1fe258a37f1cd8da\AndroidManifest.xml:5:5-44
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECT ANDROID STUDIO\Venergio\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\c211c9744065e2f9a8aeb1484f8f592c\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.1] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ea68985ce20338c1f08dbb00fe7288ea\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\049b24e45171f148176eec74c7a4003e\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\049b24e45171f148176eec74c7a4003e\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\049b24e45171f148176eec74c7a4003e\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\049b24e45171f148176eec74c7a4003e\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\fe6009ab2024f9f5ce7c77d18633a94c\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ee9b3b7c088045a67c2ef307c8192427\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ee9b3b7c088045a67c2ef307c8192427\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\ee9b3b7c088045a67c2ef307c8192427\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a06d455ecb22bb77f86621b619b633bd\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a06d455ecb22bb77f86621b619b633bd\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a06d455ecb22bb77f86621b619b633bd\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ARIEF SETYO NUGROHO\.gradle\caches\transforms-2\files-2.1\a06d455ecb22bb77f86621b619b633bd\AndroidManifest.xml:9:13-64

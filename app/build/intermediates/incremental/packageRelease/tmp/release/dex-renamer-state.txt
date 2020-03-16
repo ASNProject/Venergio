@@ -1,0 +1,4 @@
+#Mon Mar 16 21:43:48 ICT 2020
+base.0=E\:\\PROJECT ANDROID STUDIO\\Venergio\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

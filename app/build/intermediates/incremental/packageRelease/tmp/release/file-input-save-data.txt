@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 16 21:43:49 ICT 2020
+0.baseType=DIRECTORY
+0.base=E\:\\PROJECT ANDROID STUDIO\\Venergio\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1

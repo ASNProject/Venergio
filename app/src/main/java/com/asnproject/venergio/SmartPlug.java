@@ -7,13 +7,12 @@ import android.view.View;
 import android.widget.Button;
 
 public class SmartPlug extends AppCompatActivity {
-    Button btnSchedule = findViewById(R.id.btnschedule);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_smart_plug);
-
+        Button btnSchedule = findViewById(R.id.btnschedule);
         btnSchedule.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
