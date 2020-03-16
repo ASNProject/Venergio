@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:src="@drawable/veern"
+        android:scaleType="fitXY"
+        />
+    <TextView
+        android:id="@+id/schedule"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/top"
+        android:text="SCHEDULE"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text1"
+        android:layout_below="@id/schedule"
+        android:text="Set Time To ON :"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/timeon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="XX:YY:ZZ"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/text1"
+        android:layout_marginTop="5dp"
+        android:textSize="20dp"
+        android:background="@drawable/isian"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text2"
+        android:layout_below="@id/timeon"
+        android:text="Set Time To OFF :"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/timeoff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:hint="XX:YY:ZZ"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/text2"
+        android:layout_marginTop="5dp"
+        android:textSize="20dp"
+        android:background="@drawable/isian"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonschedule"
+        android:text="SAVE"
+        android:background="@drawable/isian"
+        android:layout_below="@id/timeoff"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"/>
+
+
+</RelativeLayout>

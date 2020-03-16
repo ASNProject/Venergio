@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SmartPlug">
+
+    <ImageView
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:src="@drawable/veern"
+        android:scaleType="fitXY"
+        />
+    <TextView
+        android:id="@+id/jsmartplug"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/top"
+        android:text="SMARTPLUG"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        />
+    <RelativeLayout
+        android:id="@+id/qw"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@+id/jsmartplug"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp">
+
+        <ToggleButton
+            android:id="@+id/toggleButton"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="ToggleButton"
+            android:background="@drawable/asdf"
+            />
+
+
+        <TextView
+            android:layout_width="49dp"
+            android:layout_height="21dp"
+            android:layout_below="@+id/toggleButton"
+            android:layout_alignStart="@+id/toggleButton"
+            android:layout_alignEnd="@+id/toggleButton"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="14dp"
+            android:layout_marginEnd="50dp"
+            android:text="PLUG 1"
+            android:textStyle="bold" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton1"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="ToggleButton"
+            android:background="@drawable/asdf"/>
+
+        <TextView
+            android:layout_width="49dp"
+            android:layout_height="21dp"
+            android:layout_below="@+id/toggleButton1"
+            android:layout_alignStart="@+id/toggleButton1"
+            android:layout_alignEnd="@+id/toggleButton1"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="50dp"
+            android:text="PLUG 2"
+            android:textStyle="bold"/>
+
+
+    </RelativeLayout>
+
+    <Button
+        android:layout_width="303dp"
+        android:layout_height="63dp"
+        android:layout_below="@+id/qw"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="61dp"
+        android:layout_marginBottom="106dp"
+        android:background="@drawable/asdf"
+        android:text="Schedule"
+        android:textSize="25dp"
+        android:id="@+id/btnschedule"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/i"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/isi"
+            android:layout_width="115dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Profil"
+            android:layout_below="@+id/profil"
+            android:textAlignment="center"/>
+
+        <ImageView
+            android:id="@+id/profil"
+            android:layout_width="59dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/b"
+            android:layout_centerHorizontal="true"/>
+
+        <ImageView
+
+            android:id="@+id/conn"
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/a" />
+        <ImageView
+
+            android:id="@+id/set"
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/d" />
+
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

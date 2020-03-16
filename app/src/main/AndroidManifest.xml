@@ -15,7 +15,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Halaman1"></activity>
+        <activity android:name=".SmartPlug"></activity>
+        <activity android:name=".Halaman1" />
         <activity android:name=".Register" />
         <activity
             android:name=".MainActivity"
