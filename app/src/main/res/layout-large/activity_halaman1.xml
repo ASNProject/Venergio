@@ -9,47 +9,47 @@
     <RelativeLayout
         android:id="@+id/logoup"
         android:layout_width="match_parent"
-        android:layout_height="230dp"
+        android:layout_height="300dp"
         android:background="@drawable/up">
 
         <ImageButton
-            android:layout_width="wrap_content"
-            android:layout_height="36dp"
+            android:layout_width="103dp"
+            android:layout_height="65dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
-            android:layout_marginStart="305dp"
-            android:layout_marginTop="100dp"
-            android:layout_marginEnd="40dp"
+            android:layout_marginStart="440dp"
+            android:layout_marginTop="130dp"
+            android:layout_marginEnd="60dp"
             android:background="@drawable/payment" />
 
         <TextView
             android:id="@+id/isi"
-            android:layout_width="201dp"
-            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_height="39dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
-            android:layout_marginStart="110dp"
-            android:layout_marginTop="100dp"
-            android:layout_marginEnd="110dp"
+            android:layout_marginStart="148dp"
+            android:layout_marginTop="130dp"
+            android:layout_marginEnd="162dp"
             android:text="Username"
             android:textColor="@color/colorputih"
-            android:textSize="18dp"
+            android:textSize="26dp"
             android:textStyle="bold"
 
             />
 
         <ImageView
             android:id="@+id/profil"
-            android:layout_width="64dp"
-            android:layout_height="53dp"
+            android:layout_width="79dp"
+            android:layout_height="71dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
-            android:layout_marginStart="40dp"
-            android:layout_marginTop="95dp"
-            android:layout_marginEnd="307dp"
+            android:layout_marginStart="58dp"
+            android:layout_marginTop="130dp"
+            android:layout_marginEnd="464dp"
             android:src="@drawable/b" />
 
         <TextView
@@ -59,15 +59,15 @@
             android:layout_alignStart="@+id/isi"
             android:layout_marginStart="0dp"
             android:text="Activate"
-            />
+            android:textSize="20dp"/>
 
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="30dp"
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
-            android:layout_marginTop="35dp"
-            android:layout_marginEnd="40dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginEnd="60dp"
             android:background="@drawable/button3" />
 
     </RelativeLayout>
@@ -75,11 +75,11 @@
     <com.denzcoskun.imageslider.ImageSlider
         android:id="@+id/slider"
         android:layout_width="match_parent"
-        android:layout_height="166dp"
+        android:layout_height="220dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginLeft="40dp"
-        android:layout_marginTop="180dp"
-        android:layout_marginRight="40dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="230dp"
+        android:layout_marginRight="60dp"
         android:background="@drawable/bg_indikator"
         app:auto_cycle="true"
         app:corner_radius="20"
@@ -88,8 +88,8 @@
     </com.denzcoskun.imageslider.ImageSlider>
 
     <ImageView
-        android:layout_width="150dp"
-        android:layout_height="50dp"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"
@@ -97,8 +97,8 @@
 
     <ImageButton
         android:id="@+id/imageButton"
-        android:layout_width="120dp"
-        android:layout_height="100dp"
+        android:layout_width="200dp"
+        android:layout_height="130dp"
         android:layout_below="@+id/slider"
         android:layout_alignParentStart="true"
         android:layout_marginStart="60dp"
@@ -117,14 +117,14 @@
         android:layout_marginEnd="2dp"
         android:text="SMARTPLUG"
         android:textColor="@color/colorhijau"
-        android:textSize="18dp"
+        android:textSize="28dp"
         android:textStyle="bold"
         android:textAlignment="center"/>
 
     <ImageButton
         android:id="@+id/imageButton2"
-        android:layout_width="120dp"
-        android:layout_height="100dp"
+        android:layout_width="200dp"
+        android:layout_height="130dp"
         android:layout_below="@+id/slider"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
@@ -145,14 +145,14 @@
         android:layout_marginEnd="2dp"
         android:text="SMARTLAMP"
         android:textColor="@color/colorhijau"
-        android:textSize="18dp"
+        android:textSize="28dp"
         android:textStyle="bold"
         android:textAlignment="center"/>
 
     <ImageButton
         android:id="@+id/imageButton3"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="200dp"
+        android:layout_height="130dp"
         android:layout_below="@+id/tsmartlamp"
         android:layout_alignStart="@+id/imageButton2"
         android:layout_alignParentEnd="true"
@@ -181,8 +181,8 @@
 
     <ImageButton
         android:id="@+id/imageButton4"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="200dp"
+        android:layout_height="130dp"
         android:layout_below="@+id/tsmartplug"
         android:layout_alignEnd="@+id/imageButton"
         android:layout_alignParentStart="true"
@@ -203,7 +203,7 @@
         android:layout_marginEnd="2dp"
         android:text="BATTERY"
         android:textColor="@color/colorhijau"
-        android:textSize="18dp"
+        android:textSize="28dp"
         android:textStyle="bold"
         android:textAlignment="center"/>
 
